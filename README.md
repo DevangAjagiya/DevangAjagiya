@@ -1,3 +1,4 @@
+![logo](https://github.com/DevangAjagiya/DevangAjagiya/blob/main/devang%20ajagiya.png)
 <h1 align="center">Hi 👋, I'm Devang Ajagiya</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
